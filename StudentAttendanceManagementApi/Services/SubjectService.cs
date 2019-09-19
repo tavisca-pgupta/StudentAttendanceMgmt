@@ -12,14 +12,16 @@ namespace StudentAttendanceManagementApi.Services
     {
         private DatabaseContext _context = DatabaseContext.GetInstance();
 
-        public bool AddSubject(string subjectName)
+        public void AddSubject(string subjectName)
         {
-            throw new NotImplementedException();
+            _context.Subjects.Add(new Subject() { SubjectName = subjectName });
+            _context.SaveChanges();
         }
 
-        public string GetSubjectNameById(int subjectId)
+        public Subject GetSubjectById(int subjectId)
         {
-            throw new NotImplementedException();
+            return _context.Subjects.Find(subjectId);
+            
         }
 
         public IEnumerable<Subject> GetSubjects()

@@ -24,7 +24,7 @@ namespace StudentAttendanceManagementApi.Services
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Attendance> ViewAttendance(int studentId)
+        public IEnumerable<Attendance> ViewAttendance(int studentId, int month)
         {
             throw new NotImplementedException();
         }

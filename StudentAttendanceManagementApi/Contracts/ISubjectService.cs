@@ -8,9 +8,9 @@ namespace StudentAttendanceManagementApi.Contracts
 {
     public interface ISubjectService
     {
-        bool AddSubject(string subjectName);
+        void AddSubject(string subjectName);
         bool RemoveSubject(int subjectId);
-        string GetSubjectNameById(int subjectId);
+        Subject GetSubjectById(int subjectId);
         IEnumerable<Subject> GetSubjects();
     }
 }
