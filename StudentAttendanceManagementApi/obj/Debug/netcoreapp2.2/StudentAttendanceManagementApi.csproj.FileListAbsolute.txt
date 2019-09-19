@@ -1,0 +1,14 @@
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\bin\Debug\netcoreapp2.2\StudentAttendanceManagementApi.deps.json
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\bin\Debug\netcoreapp2.2\StudentAttendanceManagementApi.runtimeconfig.json
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\bin\Debug\netcoreapp2.2\StudentAttendanceManagementApi.runtimeconfig.dev.json
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\bin\Debug\netcoreapp2.2\StudentAttendanceManagementApi.dll
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\bin\Debug\netcoreapp2.2\StudentAttendanceManagementApi.pdb
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.csprojResolveAssemblyReference.cache
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.RazorAssemblyInfo.cache
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.RazorAssemblyInfo.cs
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.AssemblyInfoInputs.cache
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.AssemblyInfo.cs
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.RazorTargetAssemblyInfo.cache
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.dll
+C:\Users\pgupta\source\repos\StudentAttendanceManagementApi\StudentAttendanceManagementApi\obj\Debug\netcoreapp2.2\StudentAttendanceManagementApi.pdb
